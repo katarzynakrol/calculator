@@ -17,4 +17,4 @@ Kalkulator został testowany na poniższych przeglądarkach:
 - Google Chrome (version 60.0.3112.113).
 
 --------------------
-##### Projekt oraz wykonanie: Katarzyna Król
+##### Projekt oraz wykonanie: [Katarzyna Król](https://www.linkedin.com/in/katarzyna-kr%C3%B3l-0097a1142/) 
